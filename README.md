@@ -1,6 +1,7 @@
 # Google Search Console Data Exporter
 
 **Google Search Console Data Exporter** — это приложение, созданное с использованием **Streamlit**, для удобной выгрузки данных из Google Search Console в формате CSV. Оно позволяет получить информацию о ключевых запросах, связанных URL, количестве кликов, показах и средней позиции для указанного домена и диапазона дат.
+Скрипт был создан для Telegram-канала [ChatGPT, AI, Python для SEO](https://t.me/python_seo).
 
 ## Функциональные возможности
 

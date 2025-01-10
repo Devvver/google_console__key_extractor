@@ -59,7 +59,7 @@ def get_all_search_console_data(site_url, start_date, end_date):
                 "URL": url,
                 "Клики": clicks,
                 "Показы": impressions,
-                "Позиция": position
+                "Позиция": round(position, 1)
             })
 
         current_step += 1

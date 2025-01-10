@@ -32,10 +32,10 @@
 
 ### 1. Установите зависимости
 Убедитесь, что Python установлен на вашем компьютере. Затем установите необходимые библиотеки:
-
+Добавьте в каталог с файлом credentials.json полученный из Google Console API.
+Как его получить прочитайте на https://serpstat.com/ru/blog/kak-podklyuchit-google-search-console/
 ```bash
 pip install streamlit pandas google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
 
-Добавьте в каталог с файлом credentials.json полученній из Google Console API.
-Как его получить прочитайте на https://serpstat.com/ru/blog/kak-podklyuchit-google-search-console/
+
 
